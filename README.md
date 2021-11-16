@@ -3,6 +3,6 @@
 - 🌱 I’m currently learning Livewire & Vue
 - 💞️ I’m looking to collaborate on making laravel packages 
 Email : me.iheb.jabri@gmail.com
-Whatsapp : +21621241251
+WhatsApp, Telegram : +21621241251
 
 
